@@ -7,7 +7,6 @@ Here are some idea that I was working on.
 - 📫 reach me : evnraja32@gmail.com
 
 <a href="https://www.linkedin.com/in/raja-elluru/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<!---
-evnraja32/evnraja32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evnraja32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Raja’ GitHub stats](https://github-readme-stats.vercel.app/api?username=evnraja32&theme=tokyonight&show_icons=true&count_private=true "Raja’ GutHub Stats")
