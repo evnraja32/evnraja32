@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Raja
 #### Automation Test Engineer with 8 years of experience
-![Automation Test Engineer with 8 years of experience](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a very simple person, down to earth, mostly spend time in coding, and wish to work in a challenging position where my technical skillset will be used for the successful completion of project goals, which helps me to grow in career aspects.
 
