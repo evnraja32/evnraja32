@@ -5,13 +5,12 @@ I'm a very simple person, down to earth, mostly spend time in coding, and wish t
 
 Skills: Testing / Automation Testing / Embedded Automation / Functional Testing / Java / Ruby / Selenium Webdriver / API Automation testing / JMeter / SQL / TestNG / Watir / RSpec
 
+- 😄 Pronouns: He / Him 
 - 🔭 I’m currently working on Freshworks Inc., 
 - 🌱 I’m currently learning load testing 
-- 👯 I’m looking to collaborate on private projects 
-- 🤔 I’m looking for help with new private projects 
+- 👯 I’m an automation enthusiast 
 - 💬 Ask me about How to do automation 
 - 📫 How to reach me: evnraja32@gmail.com 
-- 😄 Pronouns: He / Him 
 
 Here are some idea that I was working on.
 - 👀 I’m working on implementing a Hybrid framework, which helps start your automation scripting in very less time
